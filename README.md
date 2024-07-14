@@ -34,8 +34,7 @@ The Exploratory Data Analysis (EDA) App is a Streamlit-based web application tha
 
 ## **Code Walkthrough**
 
-[https://github.com/muhammadadilnaeem/Practice-Projects/assets/162784706/ecead803-c26a-4b65-99df-2b3175d93ec1](https://github.com/muhammadadilnaeem/Practice-Projects/assets/162784706/8fdc2bf1-80f8-43c0-852e-6016890d66b7)
-
+https://github.com/user-attachments/assets/f0a15669-856b-4a1c-8b9e-d5b9452eb532
 ### **Importing Libraries**
 
 The app starts by importing the necessary libraries, including Streamlit, Pandas, NumPy, and the ydata-profiling library for generating the profiling report.
