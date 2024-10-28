@@ -97,3 +97,5 @@ else:
         profile_report = generate_profile_report(df)
         profile_html = profile_report.to_html()
         components.html(profile_html, height=1000, scrolling=True)
+
+# The End
